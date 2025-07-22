@@ -1,0 +1,2 @@
+# Internship-task-1
+INTERNSHIP TASK - 1: API INTEGRATION
